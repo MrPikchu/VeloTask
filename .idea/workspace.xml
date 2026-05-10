@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cdc5a56-122b-4dba-96e4-363dffa947c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="3cdc5a56-122b-4dba-96e4-363dffa947c4" name="Changes" comment="feat: build CLI-based task management system with layered architecture&#10;&#10;- add TaskCLI with menu operations&#10;- implement TaskService with DI pattern&#10;- introduce TaskRepository (in-memory storage)&#10;- add enums for Status and Priority&#10;- add utility classes (logging, sleep helpers)&#10;- enable task creation with ID and output feedback">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeloTask-Solo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/VeloTask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cli/TaskCLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cli/TaskCLI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/TaskRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VeloTask-Solo/VeloTask-Solo(what-to-do)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VeloTask/VeloTask-Solo(what-to-do)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VeloTask-Solo(what-to-do)" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,11 +110,32 @@
       <workItem from="1778404855162" duration="33000" />
       <workItem from="1778404907459" duration="68000" />
       <workItem from="1778405001347" duration="37000" />
-      <workItem from="1778405058721" duration="4892000" />
+      <workItem from="1778405058721" duration="7963000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: build CLI-based task management system with layered architecture&#10;&#10;- add TaskCLI with menu operations&#10;- implement TaskService with DI pattern&#10;- introduce TaskRepository (in-memory storage)&#10;- add enums for Status and Priority&#10;- add utility classes (logging, sleep helpers)&#10;- enable task creation with ID and output feedback">
+      <option name="closed" value="true" />
+      <created>1778410048199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778410048199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: build CLI-based task management system with layered architecture&#10;&#10;- add TaskCLI with menu operations&#10;- implement TaskService with DI pattern&#10;- introduce TaskRepository (in-memory storage)&#10;- add enums for Status and Priority&#10;- add utility classes (logging, sleep helpers)&#10;- enable task creation with ID and output feedback">
+      <option name="closed" value="true" />
+      <created>1778410100712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778410100712</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: build CLI-based task management system with layered architecture&#10;&#10;- add TaskCLI with menu operations&#10;- implement TaskService with DI pattern&#10;- introduce TaskRepository (in-memory storage)&#10;- add enums for Status and Priority&#10;- add utility classes (logging, sleep helpers)&#10;- enable task creation with ID and output feedback" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: build CLI-based task management system with layered architecture&#10;&#10;- add TaskCLI with menu operations&#10;- implement TaskService with DI pattern&#10;- introduce TaskRepository (in-memory storage)&#10;- add enums for Status and Priority&#10;- add utility classes (logging, sleep helpers)&#10;- enable task creation with ID and output feedback" />
   </component>
 </project>
