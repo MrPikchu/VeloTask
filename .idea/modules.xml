@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VeloTask-Solo.iml" filepath="$PROJECT_DIR$/VeloTask-Solo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VeloTask.iml" filepath="$PROJECT_DIR$/VeloTask.iml" />
     </modules>
   </component>
 </project>

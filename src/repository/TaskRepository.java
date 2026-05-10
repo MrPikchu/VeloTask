@@ -8,8 +8,8 @@ public class TaskRepository {
     private List<Task> tasks = new ArrayList<>();
     private int nextId = 1;
 
-    public Task save(String title) {
-        Task task = new Task(nextId++, title);
+    public Task save(String title, String description) {
+        Task task = new Task(nextId++, title, description);
         tasks.add(task);
         return task;
     }
